@@ -2,5 +2,6 @@
 
 we use server.use() for using middlewares
 
-in REST api we create(post), Read(get), Update(put,patch), Delete(delete) the data .
- i use postman for better understanding of  REST api
+in REST api we create(post), Read(get), Update(put,patch), Delete(delete) the data 
+
+i use postman for better understanding of  REST api
