@@ -1,0 +1,12 @@
+{
+   "datas" : [
+  { "name": "gajju", "course": "b.tech","id":1 },
+  {" name": "tinku", "course": "b.tech","id":2 },
+  { "name": "siddharth", "course": "bsc","id":3  },
+  { "name": "vishal", "course": "bca","id":4  },
+  { "name": "tk", "course": "b.tech","id":5  },
+  {" name": "gk", "course": "b.tech",  "id":6  },
+  { "name": "ksp", "course": "b.tech it","id":7  },
+  { "name": "gkksp", "course": "b.tech","id":8  },
+  { "name": "gajju jii", "course": "b.tech IT","id":9  }
+]}
